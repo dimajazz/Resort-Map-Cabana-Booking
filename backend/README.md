@@ -35,6 +35,10 @@ http://localhost:8085
 
 ## 🧪 Testing
 
+Test data with a list of valid users and a map is located here:
+`backend/src/data/bookongs.json`
+`backend/src/data/map.ascii`
+
 Run all tests:
 ```sh
 npm test
