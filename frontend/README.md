@@ -38,8 +38,10 @@ http://localhost:5173
 ## 🧪 Testing
 
 Test data with a list of valid users and a map is located here:
-`backend/src/data/bookongs.json`, 
-`backend/src/data/map.ascii`
+```
+backend/src/data/bookings.json
+backend/src/data/map.ascii
+```
 
 Run all tests:
 ```sh
